@@ -1,0 +1,23 @@
+main {
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h3 {
+    margin: 0 0 15px 0;
+}
+
+input {
+    border-radius: 10px;
+    border: none;
+    color: var(--second-color);
+    padding: 5px;
+    margin-top: 2px;
+    outline: none;
+    width: 100%;
+}

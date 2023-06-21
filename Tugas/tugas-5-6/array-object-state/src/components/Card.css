@@ -1,0 +1,8 @@
+div.card {
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px #DAFFFB;
+    width: fit-content;
+    height: fit-content;
+    background-color: var(--second-color);
+}

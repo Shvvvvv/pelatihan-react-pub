@@ -1,0 +1,15 @@
+div.wrapper-galaxy {
+    background-color: var(--third-color);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+h4.name-galaxy {
+    margin: 0;
+    padding: 0;
+}
+
+p.diameter-galaxy {
+    margin: 5px 0 0 0;
+    padding: 0;
+}

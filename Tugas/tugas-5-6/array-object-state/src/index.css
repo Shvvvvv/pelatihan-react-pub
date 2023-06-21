@@ -1,0 +1,17 @@
+:root {
+  --main-color: #176B87;
+  --second-color: #001C30;
+  --third-color: #64CCC5;
+  --fourth-color: #DAFFFB;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: var(--fourth-color);
+}
+
+body {
+  margin: 0;
+  background-color: #176B87;
+}
